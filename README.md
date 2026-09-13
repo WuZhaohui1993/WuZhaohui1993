@@ -9,7 +9,7 @@ I build practical products from messy workflows, legacy systems, spreadsheets, a
 [![Selected projects](https://img.shields.io/badge/Selected%20projects-6-6f883e?style=flat-square)](https://github.com/WuZhaohui1993?tab=repositories)
 [![Open source](https://img.shields.io/badge/Open%20source-available-2f6f4e?style=flat-square)](https://github.com/WuZhaohui1993?tab=repositories)
 
-**个人主页 · [43 服务器作品集](http://43.156.229.191:8080/portfolio/)**
+**个人主页 · [作品集](http://43.156.229.191:8080/portfolio/)**
 
 ## Selected work
 
